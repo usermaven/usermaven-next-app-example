@@ -1,8 +1,8 @@
-# Getting Started with Usermaven and Next.js 13 App Router
+# Getting Started with Usermaven and Next.js App Router
 
 This project shows how to track events with Usermaven and Next.js 13 App Router using Usermaven JS SDK.
 
-If you want to learn more about Next.js 13 App Router, check out the [official documentation](https://nextjs.org/docs/app/api-reference/functions/use-router). If you want to learn about tracking events in Next.js 12 or the pages router, check out this [repository](https://github.com/usermaven/usermaven-next-example). 
+If you want to learn more about Next.js App Router, check out the [official documentation](https://nextjs.org/docs/app/api-reference/functions/use-router). If you want to learn about tracking events in Next.js 12 or the pages router, check out this [repository](https://github.com/usermaven/usermaven-next-example). 
 
 The first thing you want to do is to install the usermaven-sdk-js library in your project - so add it using your package manager:
 
